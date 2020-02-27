@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">arenillo_exer4_Slambook</string>
+    <string name="name">Name</string>
+    <string name="editname" />
+    <string name="Nickname">Nickname</string>
+    <string name="EditNickname" />
+    <string name="Age">Age</string>
+    <string name="EditAge" />
+    <string name="Birthday">When is your birthday?</string>
+    <string name="EditBIrthday" />
+    <string name="Number">Phone Number</string>
+    <string name="editPhone" />
+    <string name="Email">What is your email address?</string>
+    <string name="course">What is your course?</string>
+    <string name="dream">What is your ultimate dream?</string>
+    <string name="crush">Who is your secret crush?</string>
+    <string name="message">What is your message for me?</string>
+    <string name="done">DONE</string>
+    <string name="thankyou">Thank you for answering!</string>
+    <string name="donename">Name</string>
+    <string name="donenickname">Nickname</string>
+    <string name="doneage">Age</string>
+</resources>
